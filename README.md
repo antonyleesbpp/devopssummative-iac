@@ -1,2 +1,0 @@
-# devopssummative-iac
-IaC code
